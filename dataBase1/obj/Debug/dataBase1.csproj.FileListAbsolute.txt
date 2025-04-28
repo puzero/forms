@@ -1,0 +1,13 @@
+C:\Users\Максим\source\repos\dataBase1\dataBase1\bin\Debug\dataBase1.exe.config
+C:\Users\Максим\source\repos\dataBase1\dataBase1\bin\Debug\dataBase1.exe
+C:\Users\Максим\source\repos\dataBase1\dataBase1\bin\Debug\dataBase1.pdb
+C:\Users\Максим\source\repos\dataBase1\dataBase1\obj\Debug\dataBase1.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\dataBase1\dataBase1\obj\Debug\dataBase1.Form1.resources
+C:\Users\Максим\source\repos\dataBase1\dataBase1\obj\Debug\dataBase1.Properties.Resources.resources
+C:\Users\Максим\source\repos\dataBase1\dataBase1\obj\Debug\dataBase1.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\dataBase1\dataBase1\obj\Debug\dataBase1.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\dataBase1\dataBase1\obj\Debug\dataBase1.exe
+C:\Users\Максим\source\repos\dataBase1\dataBase1\obj\Debug\dataBase1.pdb
+C:\Users\Максим\source\repos\dataBase1\dataBase1\obj\Debug\dataBase1.FormAdmin.resources
+C:\Users\Максим\source\repos\dataBase1\dataBase1\obj\Debug\dataBase1.FormClient.resources
+C:\Users\Максим\source\repos\dataBase1\dataBase1\obj\Debug\dataBase1.FormManager.resources
